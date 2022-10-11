@@ -12,7 +12,7 @@ const style = {
   editBtn: `cursor-pointer active:opacity-80`,
   subtitle: `pt-1 text-sm text-slate-200`,
   todoWrapper: `mt-20 flex flex-col px-5 space-y-4 mb-20`,
-  inputWrapper: `mt-10 flex justify-center items-center space-x-4 select-none`,
+  inputWrapper: `mt-10 flex justify-center items-center w-[80%] mx-auto space-x-4 select-none`,
   input: `px-4 py-2 rounded-lg outline-none text-white bg-dark font-medium shadow-[0px_4px_12px_rgba(255,255,255,0.25)]`,
   addBtn: `px-4 py-2 rounded-lg font-semibold bg-dark text-white shadow-[0px_4px_12px_rgba(255,255,255,0.25)] active:bg-opacity-80`,
 };
