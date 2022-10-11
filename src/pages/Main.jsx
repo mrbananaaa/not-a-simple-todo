@@ -5,7 +5,7 @@ import editBtn from "../img/edit-btn.png"
 import Todo from "../components/Todo";
 
 const style = {
-  wrapper: `relative selection:bg-white selection:text-dark`,
+  wrapper: `selection:bg-white selection:text-dark overflow-hidden`,
   titleContainer: `mt-20 text-center`,
   titleWrapper: `flex justify-center items-center space-x-2`,
   title: `text-2xl font-semibold`,
